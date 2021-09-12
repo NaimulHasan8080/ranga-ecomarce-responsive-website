@@ -84,3 +84,13 @@ body {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+
+/* color add cart button */
+#addToCart-btn{
+  background-color: #2abbe8;
+}
+
+/* details cart color */
+#details-btn{
+  background-color: #f57224;
+}
